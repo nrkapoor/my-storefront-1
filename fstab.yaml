@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/nrkapoor/my-storefront-1/
+    type: markup
+
+folders:
+  /products/: /products/default
